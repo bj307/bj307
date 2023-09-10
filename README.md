@@ -1,3 +1,6 @@
+[![wakatime](https://wakatime.com/badge/user/e9e24a64-fc62-44fa-b98b-fe67af8fcf4f.svg)](https://wakatime.com/@e9e24a64-fc62-44fa-b98b-fe67af8fcf4f)
+
+
 <h1 align="center">🤙 Hi, I'm Kaio</h1> 
 
 # 🤪 Sobre mim:<br>
