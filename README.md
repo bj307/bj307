@@ -37,7 +37,7 @@
 
 <div align="center">
 <h3 align="center">😂 Meu meme</h3> <br>
-  <img width="400ox" src="https://img.ifunny.co/images/1a67d286c5434ff2af4280b960d8099980437248d95e30e51940976c964dfd2e_1.jpg"/>
+  <img width="400px" src="https://img.ifunny.co/images/1a67d286c5434ff2af4280b960d8099980437248d95e30e51940976c964dfd2e_1.jpg"/>
 </div>
 
 ---
