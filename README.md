@@ -7,9 +7,6 @@
 🔭 Atualmente estou trabalhando em: <br>
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bj307&repo=telemed-api)
 
-🌱 Estou aprendendo:<br>
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
 ⚡ Curiosidades: loading...
 
 <h1 align="center">🌐 Social:</h1> 
@@ -17,8 +14,6 @@
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/bj.kaio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kaio-resende/) [![Dribbble](https://img.shields.io/badge/Dribbble-%230077B5.svg?logo=dribbble&logoColor=white)](https://dribbble.com/BJ307)   
 </div>
-
-
 
 <h1 align="center">💻 Stacks:</h1> 
 <div align="center">
@@ -33,11 +28,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=bj307&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bj307&theme=radical&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bj307&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-<div align="center">
-<h3 align="center">😂 Meu meme</h3> <br>
-  <img width="400px" src="https://img.ifunny.co/images/1a67d286c5434ff2af4280b960d8099980437248d95e30e51940976c964dfd2e_1.jpg"/>
 </div>
 
 ---
